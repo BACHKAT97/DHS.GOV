@@ -1,0 +1,17 @@
+"Customer 
+Component- Agency/
+Office",TO Title / Description,"TO Number 
+or 
+Modification Number","Selected 
+Contractor","TO 
+Functional 
+Category","Initial Award
+Date", Total TO Value (Including Options) 
+DHS/IP,Mission Critical Infrastructure Ops,HSHQDC-06-J-00435/P00001,General Dynamics,FC-1,9/28/2006," $1,824,384.66 "
+DHS/IP,Biosurvelliance Common Operating Network (BCON),HSHQDC-06-J-00331/P00015,SAIC,FC-1,9/28/2006," $26,544,336.00 "
+DHS/OCIO,E-Gov Operational Support - Program Office Support,HSHQDC-06-J-00444/P00001,Booz Allen Hamilton,FC-5,9/28/2006," $475,496.71 "
+DHS/IA,Mission Critical Infrastructure Ops,HSHQDC-06-J-00469/P00005,General Dynamics,FC-2,9/29/2006," $1,955,836.51 "
+,,,,,,
+,,,,,,
+Total Task Orders Awarded in Fiscal Year 2006:  4,,,,,,
+"Total Task Order Value in Fiscal Year 2006: $30,800,053.88",,,,,,
