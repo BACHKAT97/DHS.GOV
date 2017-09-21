@@ -1,0 +1,662 @@
+[
+  {
+    "updatedDate": "milestoneID",
+    "2017/05/25": "milestoneDesc",
+    "": ""
+  },
+  {
+    "updatedDate": 1,
+    "2017/05/25": "Identify and review relevant policies that impact processes, roles, and responsibilities within DHS planning, programming, and budget (PPB) phases",
+    "": ""
+  },
+  {
+    "updatedDate": 2,
+    "2017/05/25": "Document and model current processes and supporting requirements for PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 3,
+    "2017/05/25": "Identify gaps and opportunities in current processes to address OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 4,
+    "2017/05/25": "Draft content updates to ensure relevant policies are compliant with OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 5,
+    "2017/05/25": "Collaborate with appropriate stakeholders to develop process models and supporting list of requirements for the target PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 6,
+    "2017/05/25": "Ensure content updates to policies are approved by all relevant parties and submit updated/approved policies to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 7,
+    "2017/05/25": "The CFO and CIO will document and implement the updated and agreed upon processes for PPB phases to ensure CIO has visibility into IT resource plans and decisions",
+    "": ""
+  },
+  {
+    "updatedDate": 8,
+    "2017/05/25": "Identify and review relevant policies that impact processes, roles, and responsibilities within each PPB phase",
+    "": ""
+  },
+  {
+    "updatedDate": 9,
+    "2017/05/25": "Document and model current processes and supporting requirements for the PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 10,
+    "2017/05/25": "Identify gaps and opportunities in current processes to address OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 11,
+    "2017/05/25": "Draft content updates to ensure relevant policies are compliant with OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 12,
+    "2017/05/25": "Collaborate with appropriate stakeholders to develop process models and supporting list of requirements for the target PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 13,
+    "2017/05/25": "Ensure content updates to policies are approved by all relevant parties and submit updated/approved policies to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 14,
+    "2017/05/25": "Document and update the DHS IT portfolio management processes to align with the updated PPB phases to assess the effective use of IT-related resources",
+    "": ""
+  },
+  {
+    "updatedDate": 15,
+    "2017/05/25": "Document and implement the updated and agreed upon processes for PPB phases to ensure CIO has a role in pre-budget submission for programs that include IT and overall IT portfolio",
+    "": ""
+  },
+  {
+    "updatedDate": 16,
+    "2017/05/25": "Identify and review relevant policies that impact processes, roles, and responsibilities within each PPB phase",
+    "": ""
+  },
+  {
+    "updatedDate": 17,
+    "2017/05/25": "Document and model current processes and supporting requirements for the PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 18,
+    "2017/05/25": "Identify gaps and opportunities in current processes to address OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 19,
+    "2017/05/25": "Draft content updates to ensure relevant policies are compliant with OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 20,
+    "2017/05/25": "Collaborate with appropriate stakeholders to develop process models and supporting list of requirements for the target PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 21,
+    "2017/05/25": "Ensure content updates to policies are approved by all relevant parties and submit updated policies to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 22,
+    "2017/05/25": "Program Accountability and Risk Management (PARM), the Office of the Chief Financial Officer (OCFO), Office of the Chief Procurement Officer (OCPO), and OCIO will formalize the endorsement or approval process to incorporate CIO review, assessment, and acknowledgement of appropriate artifacts to include incremental development supporting the acquisition of Level 1 and Level 2 and special interest IT investments in the Acquisition Lifecycle Framework (ALF)",
+    "": ""
+  },
+  {
+    "updatedDate": 23,
+    "2017/05/25": "PARM will update language within Directive 102 as necessary to fully align with FITARA OMB Common Baseline, CIO responsibilities, and incorporate the requirements for incremental development",
+    "": ""
+  },
+  {
+    "updatedDate": 24,
+    "2017/05/25": "OCIO is conducting a survey of all Level 1, Level 2, and special interest programs to assess appropriate level of agile adoption across DHS (ONGOING, commenced August 2015, anticipated completion date is December 2015.",
+    "": ""
+  },
+  {
+    "updatedDate": 25,
+    "2017/05/25": "DHS will complete an analysis of the current state of Pre-ADE-1 activities",
+    "": ""
+  },
+  {
+    "updatedDate": 26,
+    "2017/05/25": "DHS will develop a proposed framework for streamlining Pre-ADE-1 activities",
+    "": ""
+  },
+  {
+    "updatedDate": 27,
+    "2017/05/25": "DHS will complete an implementation recommendation plan for streamlining and reporting on Pre-ADE-1 activities",
+    "": ""
+  },
+  {
+    "updatedDate": 28,
+    "2017/05/25": "DHS will pilot a streamlined approach to the pre-ADE-1 process with selected programs",
+    "": ""
+  },
+  {
+    "updatedDate": 29,
+    "2017/05/25": "Document and implement the updated and agreed upon processes for PPB phases to ensure CIO has a role in program planning",
+    "": ""
+  },
+  {
+    "updatedDate": 30,
+    "2017/05/25": "Identify and review relevant policies that impact process steps, roles, and responsibilities of the PPB phases to better support analysis and approval of the IT funding portion of the budget",
+    "": ""
+  },
+  {
+    "updatedDate": 31,
+    "2017/05/25": "Document and model current processes and supporting requirements for the PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 32,
+    "2017/05/25": "Identify gaps and opportunities in current processes to address OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 33,
+    "2017/05/25": "Draft content updates to ensure relevant policies are compliant with OMB Common Baseline requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 34,
+    "2017/05/25": "Work with JRC to determine how to leverage intake for capability requirements to identify new major IT requests",
+    "": ""
+  },
+  {
+    "updatedDate": 35,
+    "2017/05/25": "Develop appropriate processes to support review and approval of the IT investment portion of the budget request, resulting in a CIO/CFO joint affirmation statement",
+    "": ""
+  },
+  {
+    "updatedDate": 36,
+    "2017/05/25": "OCIO and OCFO will vet program health status and the relationship of budgets under consideration to a plan to resolve unsatisfactory status that has been similarly vetted and approved at the Component level",
+    "": ""
+  },
+  {
+    "updatedDate": 37,
+    "2017/05/25": "Collaborate with appropriate stakeholders to develop process models and supporting list of requirements for the target PPB phases",
+    "": ""
+  },
+  {
+    "updatedDate": 38,
+    "2017/05/25": "Validate processes for approval of major IT investment requests",
+    "": ""
+  },
+  {
+    "updatedDate": 39,
+    "2017/05/25": "Ensure content updates to policies are approved by all relevant parties and submit updated policies to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 40,
+    "2017/05/25": "Document and implement the updated and agreed upon processes for PPB phases to ensure the CIO has approval of agency IT budget submission to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 41,
+    "2017/05/25": "CIO and CFO will coordinate the integration points between both offices to ensure that CIO has appropriate review and approval of the IT investment portion of the budget request",
+    "": ""
+  },
+  {
+    "updatedDate": 42,
+    "2017/05/25": "The OCIO ITPM COE will be established as a cross-functional team in EBMO (and will solicit Component involvement) to gather appropriate best practices, to determine pain points, and to address these pain points to provide a standardized path to success for ITPMs",
+    "": ""
+  },
+  {
+    "updatedDate": 43,
+    "2017/05/25": "The OCIO ITPM COE will develop IT performance metrics for Level 1 and Level 2, and special interest program to ensure programs are delivering value and meeting business objectives",
+    "": ""
+  },
+  {
+    "updatedDate": 44,
+    "2017/05/25": "OCIO and PARM will develop specific requirements to review and validate the performance metrics for Level 1, Level 2, and Special interest programs within the ARB reviews",
+    "": ""
+  },
+  {
+    "updatedDate": 45,
+    "2017/05/25": "OCIO will leverage the updated DHS TechStat process to conduct root cause analysis to establish or develop action items, and provide support to failing or troubled programs",
+    "": ""
+  },
+  {
+    "updatedDate": 46,
+    "2017/05/25": "PARM and OCIO will update the process to ensure CIO IT PMCOE is fully engaged in reviewing IT performance metrics and strategies to ensure programs are delivering value and meeting business objectives",
+    "": ""
+  },
+  {
+    "updatedDate": 47,
+    "2017/05/25": "OCIO and PARM will coordinate and harmonize the IT program assessment and engagement functions between both offices",
+    "": ""
+  },
+  {
+    "updatedDate": 48,
+    "2017/05/25": "Initiate process to update Directive 142-04 (IT Integration and Management) to reflect CIO roles/responsibilities for IT performance metric",
+    "": ""
+  },
+  {
+    "updatedDate": 49,
+    "2017/05/25": "The ITPM COE will create ITPM standard operating procedures, best practices guides, an ITPM Toolkit, and best of breed Document Templates (CM Plan, PMP, QMP, RMP, etc.)",
+    "": ""
+  },
+  {
+    "updatedDate": 50,
+    "2017/05/25": "Document requirements for collecting and validating planned expenditure reporting for IT investments",
+    "": ""
+  },
+  {
+    "updatedDate": 51,
+    "2017/05/25": "Document current capabilities for collecting and validating planned expenditure reporting for IT investments",
+    "": ""
+  },
+  {
+    "updatedDate": 52,
+    "2017/05/25": "Identify gaps in current capabilities where OMB Common Baseline requirements are not satisfied",
+    "": ""
+  },
+  {
+    "updatedDate": 53,
+    "2017/05/25": "Document proposed methods to capture planned expenditures for IT investments",
+    "": ""
+  },
+  {
+    "updatedDate": 54,
+    "2017/05/25": "Update guidance and documentation to collect the appropriate amount of information needed to better support analysis, planning, and recommendations related to planned IT expenditures",
+    "": ""
+  },
+  {
+    "updatedDate": 55,
+    "2017/05/25": "Implement the updated and agreed upon processes and methods for planned expenditure reporting for IT investments",
+    "": ""
+  },
+  {
+    "updatedDate": 56,
+    "2017/05/25": "Identify gaps in current process where OMB Common Baseline requirements are not satisfied and/or do not align with overarching PortfolioStat policy and guidance",
+    "": ""
+  },
+  {
+    "updatedDate": 57,
+    "2017/05/25": "Identify relevant policies that impact process steps, roles, and responsibilities for CFO budget execution reporting and PortfolioStat budget execution reporting requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 58,
+    "2017/05/25": "CFO, CIO, Chief Readiness Support Officer (CRSO), and PLCY will update policy, guidance, and documentation to collect the appropriate amount of information needed to better support analysis, planning, and recommendations related to IT budget execution across CFO and PortfolioStat reporting requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 59,
+    "2017/05/25": "Collaborate with stakeholders to develop Process Models and supporting list of requirements for the target review and reporting of IT budget execution to support PortfolioStat reporting requirements",
+    "": ""
+  },
+  {
+    "updatedDate": 60,
+    "2017/05/25": "Ensure content updates to policies are approved by all relevant parties and submit updated policies to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 61,
+    "2017/05/25": "The CFO and CIO implement the updated and agreed upon processes for IT budget execution reporting",
+    "": ""
+  },
+  {
+    "updatedDate": 62,
+    "2017/05/25": "Identify relevant process steps, roles, and responsibilities within each review phase of the SELC for CIO certification",
+    "": ""
+  },
+  {
+    "updatedDate": 63,
+    "2017/05/25": "Collaborate with PARM stakeholders to develop process models and supporting list of requirements for CIO certification of SELC reviews related to IT initiatives only",
+    "": ""
+  },
+  {
+    "updatedDate": 64,
+    "2017/05/25": "CIO, PARM, and S&T Will review the Technical Review Guide to ensure it includes the CIO's certification of incremental development or scope of the SELC reviews to ensure that the process sufficiently addresses various IT resource categories",
+    "": ""
+  },
+  {
+    "updatedDate": 65,
+    "2017/05/25": "Verify that changes in process models reflect updates to relevant policies",
+    "": ""
+  },
+  {
+    "updatedDate": 66,
+    "2017/05/25": "Conduct survey of all Level 1, Level 2, and special interest programs to assess level of agile adoption across DHS; this activity is ongoing, commenced August 2015",
+    "": ""
+  },
+  {
+    "updatedDate": 67,
+    "2017/05/25": "Submit approved target process models and supporting operating process manuals/guidance",
+    "": ""
+  },
+  {
+    "updatedDate": 68,
+    "2017/05/25": "PARM will incorporate Agile guidebook and instruction, and SELC guidebook and instruction into the D102",
+    "": ""
+  },
+  {
+    "updatedDate": 69,
+    "2017/05/25": "PARM, CIO, and S&T will incorporate CIO certification of incremental development or scope of the SELC reviews to ensure that the process sufficiently addresses various IT resource categories for all gate reviews",
+    "": ""
+  },
+  {
+    "updatedDate": 70,
+    "2017/05/25": "PARM, OCFO, OCPO, and OCIO will update existing processes and approved policies to ensure CIO reviews major program (Levels 1 and 2) acquisition plans for programs that include IT resources, including incremental development principles, shared services, category management, strategic sourcing, and incremental or modular contracting",
+    "": ""
+  },
+  {
+    "updatedDate": 71,
+    "2017/05/25": "DHS OCIO will augment the list of IT governance boards on which the CIO participates with a description of the authority, scope, and CXO membership of those boards",
+    "": ""
+  },
+  {
+    "updatedDate": 72,
+    "2017/05/25": "DHS will identify all IT governance boards on which the CIO should participate in accordance with FITARA",
+    "": ""
+  },
+  {
+    "updatedDate": 73,
+    "2017/05/25": "DHS will recommend charter amendments to non-compliant boards to make the CIO a voting member",
+    "": ""
+  },
+  {
+    "updatedDate": 92,
+    "2017/05/25": "Identify gaps in current TechStat process where OMB Common Baseline requirements are not satisfied",
+    "": ""
+  },
+  {
+    "updatedDate": 93,
+    "2017/05/25": "Identify relevant policies that impact process steps, roles, and responsibilities within TechStat",
+    "": ""
+  },
+  {
+    "updatedDate": 94,
+    "2017/05/25": "Initiate updates to Management Directive 102-03 to reflect FITARA requirements and corresponding process documentation to properly align with all business controls and responsibilities for every relevant role included within the TechStat process",
+    "": ""
+  },
+  {
+    "updatedDate": 95,
+    "2017/05/25": "Ensure content updates to policies are approved by all stakeholders with equities and submit updated policies to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 96,
+    "2017/05/25": "OCIO will develop specific criteria, ConOps, and train Component CIO staff to conduct TechStat accountability sessions",
+    "": ""
+  },
+  {
+    "updatedDate": 97,
+    "2017/05/25": "The CIO will initiate TechStat reviews for chronically red programs and as a member of the ARB, will make recommendations to modify, terminate or pause IT based on criteria identified in FITARA",
+    "": ""
+  },
+  {
+    "updatedDate": 104,
+    "2017/05/25": "OCIO will coordinate with OCFO Budget Division to develop and document an approval process for OCIO coordination for reprogramming",
+    "": ""
+  },
+  {
+    "updatedDate": 105,
+    "2017/05/25": "Identify relevant policies that impact process steps, roles, and responsibilities within IT reprogramming and transfer request process",
+    "": ""
+  },
+  {
+    "updatedDate": 106,
+    "2017/05/25": "OCIO and OCFO will ensure content updates to policies are reviewed by all stakeholders with equities and submit updated policies to OMB",
+    "": ""
+  },
+  {
+    "updatedDate": 107,
+    "2017/05/25": "OCFO and OCIO will revise relevant OCFO and OCIO documentation and processes to reflect CIO approval of Component?s requests for reprogramming and transfer requests of IT resources",
+    "": ""
+  },
+  {
+    "updatedDate": 74,
+    "2017/05/25": "PARM and OCIO will document existing process model to ensure that IT acquisitions are led by personnel with appropriate federal acquisition certification (FAC), including specialized IT certification as appropriate",
+    "": ""
+  },
+  {
+    "updatedDate": 75,
+    "2017/05/25": "PARM, with OCIO input, will ensure that DHS Management Directive 102 is updated as appropriate to reflect changes in the CIO roles/responsibilities and align with FITARA guidelines",
+    "": ""
+  },
+  {
+    "updatedDate": 76,
+    "2017/05/25": "Identify where supplemental guidance is needed for federal acquisition certification (FAC)",
+    "": ""
+  },
+  {
+    "updatedDate": 77,
+    "2017/05/25": "Identify gaps in current process for acquisition strategy plans where OMB Common Baseline Requirements are not satisfied",
+    "": ""
+  },
+  {
+    "updatedDate": 78,
+    "2017/05/25": "Identify relevant policies that impact process steps, roles, and responsibilities for acquisition plans",
+    "": ""
+  },
+  {
+    "updatedDate": 79,
+    "2017/05/25": "OCFO/CAD, OCPO, PARM, and OCIO will document existing process models and supporting list of requirements for LCCE",
+    "": ""
+  },
+  {
+    "updatedDate": 80,
+    "2017/05/25": "In collaboration with OCIO, OCPO will determine and amend/issue procurement policy/oversight guidance and procedures",
+    "": ""
+  },
+  {
+    "updatedDate": 81,
+    "2017/05/25": "OCIO, supported by OCPO and PARM will implement the updated and agreed upon processes to ensure CIO review of strategy/acquisition plans, including incremental acquisition and development principles",
+    "": ""
+  },
+  {
+    "updatedDate": 82,
+    "2017/05/25": "Identify gaps in current process for LCCE review board process where OMB Common Baseline requirements are not satisfied",
+    "": ""
+  },
+  {
+    "updatedDate": 83,
+    "2017/05/25": "OCFO and OCIO will update existing processes to include OCIO through a LCCE review board process. Additional guidance will be given to DHS Components to establish a similar review board where Component CIOs have the opportunity to review the LCCE",
+    "": ""
+  },
+  {
+    "updatedDate": 84,
+    "2017/05/25": "Ensure content updates to policies for acquisition strategy plans are approved by stakeholders with equity and in compliance with related OMB policy",
+    "": ""
+  },
+  {
+    "updatedDate": 131,
+    "2017/05/25": "Ensure content updates to policies for AP review board process are approved by all stakeholders with equity and submit updated policies to OMB for review",
+    "": ""
+  },
+  {
+    "updatedDate": 85,
+    "2017/05/25": "Update INVEST to identify IT specialization",
+    "": ""
+  },
+  {
+    "updatedDate": 86,
+    "2017/05/25": "OCIO will continue to collaborate with OCPO and OCHCO to provide training to IT Project and Program Managers in support of the achievement of Program Manager- IT Specialization",
+    "": ""
+  },
+  {
+    "updatedDate": 87,
+    "2017/05/25": "OCPO will continue to work with OCIO to further establish the commodity manager structure, consistent with the government wide category management and strategic sourcing initiatives",
+    "": ""
+  },
+  {
+    "updatedDate": 88,
+    "2017/05/25": "The CPO Procurement Innovation Lab and the HSAI will develop and deploy more learning cafe events. New learning cafe events will focus on actual case studies, taught by contracting officers who have conducted acquisitions involving innovative procurement techniques",
+    "": ""
+  },
+  {
+    "updatedDate": 89,
+    "2017/05/25": "OCPO procurement innovator designation/recognition program is being developed to recognize individuals choosing to fulfill certain learning events as DHS Innovation Coach or Innovation Master",
+    "": ""
+  },
+  {
+    "updatedDate": 90,
+    "2017/05/25": "OCPO, PARM and OCIO will continue efforts to enhance the acquisition and SELC guidance to determine appropriate visibility and analysis of IT cost elements, strategy/acquisition plans, and strategy to determine that the CIO has appropriate review, governance, and oversight of IT spending and implementation of IT policy, such as incremental delivery of IT capabilities and use of shared services",
+    "": ""
+  },
+  {
+    "updatedDate": 91,
+    "2017/05/25": "DHS will establish a draft tailored version of an SELC path for non-major IT acquisitions for components and headquarters that do not have a published SELC or equivalent",
+    "": ""
+  },
+  {
+    "updatedDate": 98,
+    "2017/05/25": "OCIO and OCPO will review and document the existing CPO process for acquisition plan reviews",
+    "": ""
+  },
+  {
+    "updatedDate": 99,
+    "2017/05/25": "OCPO and OCIO will determine what procurement policy/oversight changes, if any, need to be made",
+    "": ""
+  },
+  {
+    "updatedDate": 100,
+    "2017/05/25": "OCIO and OCPO will identify processes to reflect CIO participation in the review of acquisition plans of any investments that include IT resources and incorporate CIO signature authority for IT strategy/acquisition plans. OCIO and OCPO will update relevant policies to ensure compliance with OMB Common Baseline",
+    "": ""
+  },
+  {
+    "updatedDate": 101,
+    "2017/05/25": "Component heads of contracting activity will include Component CIO review and approval as part of the approval procedures for acquisition plans below the CPO review thresholds",
+    "": ""
+  },
+  {
+    "updatedDate": 102,
+    "2017/05/25": "OCIO will develop specific criteria, ConOps, and training documents to support the CIO review and signatory requirements for acquisition plans",
+    "": ""
+  },
+  {
+    "updatedDate": 103,
+    "2017/05/25": "OCIO, in collaboration with OCPO, will perform a threshold analysis to identify/define \"substantial change\" and \"significant contract",
+    "": ""
+  },
+  {
+    "updatedDate": 128,
+    "2017/05/25": "Ensure content updates to policies for LCCE review board process are approved by all stakeholders with equity and submit updated policies to OMB for Review.",
+    "": ""
+  },
+  {
+    "updatedDate": 129,
+    "2017/05/25": "Identify relevant policies that impact process steps, roles, and responsibilities for LCCE review board process.",
+    "": ""
+  },
+  {
+    "updatedDate": 108,
+    "2017/05/25": "OCIO subject matter experts will develop an executive-level leadership competency applicable to CIO SES, SL and ST employees, to include a basic definition of the competency and behavioral standards at two rating levels of performance (?Achieved Expectations? and ?Achieved Excellence?)",
+    "": ""
+  },
+  {
+    "updatedDate": 109,
+    "2017/05/25": "OCHCO will incorporate this competency as a sub-element in Critical Element 1: Leadership Competencies in SES and Senior Level and Scientific Professional/Technical (SL/ST) performance plans, amend performance system descriptions as necessary, and submit these amendments to the Office of Personnel Management (OPM). This CIO-centered competency will be included as part of the annual performance appraisal and rating as applicable only to designated CIO position incumbents.",
+    "": ""
+  },
+  {
+    "updatedDate": 110,
+    "2017/05/25": "Develop a scorecard to evaluate effectiveness of the IT competency in performance plans",
+    "": ""
+  },
+  {
+    "updatedDate": 111,
+    "2017/05/25": "CHCO will provide guidance during the implementation and closeout of the performance appraisal cycle that will provide Line of Business (i.e. CIO, CAO, CPO, etc.) input into the agency-wide critical elements",
+    "": ""
+  },
+  {
+    "updatedDate": 112,
+    "2017/05/25": "OCIO and OCHCO will collaborate to include evaluating rating officials and reviewing officials in the provided survey report",
+    "": ""
+  },
+  {
+    "updatedDate": 113,
+    "2017/05/25": "Conduct a survey to determine the effectiveness of the IT competency",
+    "": ""
+  },
+  {
+    "updatedDate": 114,
+    "2017/05/25": "CIO and CHCO will collaborate to include evaluating rating officials and reviewing officials in the provided survey report",
+    "": ""
+  },
+  {
+    "updatedDate": 115,
+    "2017/05/25": "OCIO will continue to collaborate with OCHCO to further refine the DHS IT competency model and identify training opportunities that will enhance IT staff development at multiple levels",
+    "": ""
+  },
+  {
+    "updatedDate": 116,
+    "2017/05/25": "OCIO and OCHCO will develop a workforce planning process for assessment of current IT skills",
+    "": ""
+  },
+  {
+    "updatedDate": 117,
+    "2017/05/25": "OCIO will continue to collaborate with OCPO on the IT Supplement to the DHS annual Acquisition Human Capital Plan (AHCP) to improve the development and recruitment of IT personnel",
+    "": ""
+  },
+  {
+    "updatedDate": 118,
+    "2017/05/25": "OCIO will work with OCPO and OCHCO to further develop self-assessment tools used to streamline acquisition of FAC-P/PM-IT competencies",
+    "": ""
+  },
+  {
+    "updatedDate": 119,
+    "2017/05/25": "Utilize the workforce planning process to assess skills and employ Digital Services staff",
+    "": ""
+  },
+  {
+    "updatedDate": 120,
+    "2017/05/25": "Identify existing course and training inventory (i.e. sponsors & course offerings)",
+    "": ""
+  },
+  {
+    "updatedDate": 121,
+    "2017/05/25": "Align existing course inventory to acquisition certifications and IT specialization",
+    "": ""
+  },
+  {
+    "updatedDate": 122,
+    "2017/05/25": "Identify Agency mission training needs (per FITARA guidance and policies)",
+    "": ""
+  },
+  {
+    "updatedDate": 123,
+    "2017/05/25": "Identify existing employee skillsets (Acquisition & IT Specialization) ? per FITARA guidance and policies",
+    "": ""
+  },
+  {
+    "updatedDate": 124,
+    "2017/05/25": "Identify course gaps for employee skillsets enhancement",
+    "": ""
+  },
+  {
+    "updatedDate": 125,
+    "2017/05/25": "Identify strategy/roadmap/metrics to improve training and employee skillsets (fulfill gaps)",
+    "": ""
+  },
+  {
+    "updatedDate": 126,
+    "2017/05/25": "Execute strategy/roadmap",
+    "": ""
+  },
+  {
+    "updatedDate": 127,
+    "2017/05/25": "Report out on metrics",
+    "": ""
+  },
+  {
+    "updatedDate": 130,
+    "2017/05/25": "OCIO and OCPO will work collaboratively with stakeholders to provide Commercial Off the Shelf (COTS) training targeted to IT acquisitions",
+    "": ""
+  }
+]
