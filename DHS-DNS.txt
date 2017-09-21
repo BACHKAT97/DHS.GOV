@@ -1,0 +1,76 @@
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> dhs.gov MX
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47208
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;dhs.gov.			IN	MX
+
+;; ANSWER SECTION:
+dhs.gov.		900	IN	MX	10 dhs-gov.mail.protection.outlook.com.
+
+;; Query time: 48 msec
+;; SERVER: 192.168.1.254#53(192.168.1.254)
+;; WHEN: Thu Jul 13 05:04:57 CET 2017
+;; MSG SIZE  rcvd: 87
+
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> dhs.gov SOA
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42569
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;dhs.gov.			IN	SOA
+
+;; ANSWER SECTION:
+dhs.gov.		28800	IN	SOA	ns5.dhs.gov. dnssec1net.cbp.dhs.gov. 2008143976 10800 1080 604800 900
+
+;; Query time: 45 msec
+;; SERVER: 192.168.1.254#53(192.168.1.254)
+;; WHEN: Thu Jul 13 05:06:41 CET 2017
+;; MSG SIZE  rcvd: 91
+
+
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> dhs.gov AAAA
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36699
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1280
+;; QUESTION SECTION:
+;dhs.gov.			IN	AAAA
+
+;; AUTHORITY SECTION:
+dhs.gov.		900	IN	SOA	ns5.dhs.gov. dnssec1net.cbp.dhs.gov. 2008143976 10800 1080 604800 900
+
+;; Query time: 39 msec
+;; SERVER: 192.168.1.254#53(192.168.1.254)
+;; WHEN: Thu Jul 13 05:04:08 CET 2017
+;; MSG SIZE  rcvd: 91
+
+; <<>> DiG 9.9.5-3ubuntu0.10-Ubuntu <<>> dhs.gov A
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57261
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;dhs.gov.			IN	A
+
+;; ANSWER SECTION:
+dhs.gov.		829	IN	A	173.252.133.166
+
+;; Query time: 5 msec
+;; SERVER: 192.168.1.254#53(192.168.1.254)
+;; WHEN: Thu Jul 13 05:04:36 CET 2017
+;; MSG SIZE  rcvd: 41
