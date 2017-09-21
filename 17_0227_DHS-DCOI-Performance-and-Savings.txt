@@ -1,0 +1,76 @@
+{
+      "optimizationMetrics": {
+            "facilityUtilization": {
+                  "fy18OMBtarget": 80,
+                  "fy16Planned": 44.5,
+                  "fy16Achieved": 44.5,
+                  "fy17Planned": 46.8,
+                  "fy18Planned": 45.7,
+                  "explanationForUnmetPlannedValues": " "
+            },
+            "energyMetering": {
+                  "fy18OMBtarget": 100,
+                  "fy16Planned": 0,
+                  "fy16Achieved": 0,
+                  "fy17Planned": 0,
+                  "fy18Planned": 0,
+                  "explanationForUnmetPlannedValues": " "
+            },
+            "pue": {
+                  "fy18OMBtarget": 1.4,
+                  "fy16Planned": 0,
+                  "fy16Achieved": 0,
+                  "fy17Planned": 0,
+                  "fy18Planned": 0,
+                  "explanationForUnmetPlannedValues": " "
+            },
+            "virtualization": {
+                  "fy18OMBtarget": 4,
+                  "fy16Planned": 2.0,
+                  "fy16Achieved": 2.0,
+                  "fy17Planned": 2.3,
+                  "fy18Planned": 2.5,
+                  "explanationForUnmetPlannedValues": " "
+            },
+            "tieredServerUtAutoMonitoring": {
+                  "fy18OMBtarget": 65,
+                  "fy16Planned": 24.7,
+                  "fy16Achieved": 24.7,
+                  "fy17Planned": 27.0,
+                  "fy18Planned": 28.1,
+                  "explanationForUnmetPlannedValues": " "
+            },
+            "nontieredServerUtAutoMonitoring": {
+                  "fy18OMBtarget": 65,
+                  "fy16Planned": 13,
+                  "fy16Achieved": 13,
+                  "fy17Planned": 13,
+                  "fy18Planned": 13,
+                  "explanationForUnmetPlannedValues": " "
+            }
+      },
+      "tieredClosures": {
+            "fy16Planned": 10.3,
+            "fy16Achieved": 10.3,
+            "fy17Planned": 0,
+            "fy18Planned": 0,
+            "explanationForUnmetPlannedValues": " "
+      },
+      "nontieredClosures": {
+            "fy16Planned": 4.2,
+            "fy16Achieved": 4.2,
+            "fy17Planned": 0,
+            "fy18Planned": 0,
+            "explanationForUnmetPlannedValues": " "
+      },
+      "costSavings": {
+            "fy16Planned": 187.99,
+            "fy16Achieved": 187.99,
+            "fy17Planned": 58.18,
+            "fy18Planned": 8.53,
+            "explanationForUnmetPlannedValues": "TBD",
+            "costsOfClosures": "Explanations are still being received from Components and will be provided in the April 2017 update.",
+            "costsOfOptimization": "Explanations are still being received from Components and will be provided in the April 2017 update.",
+            "historicalCostSavings": "$845.63M in historical savings are due to data center consolidation, closures of legacy data centers, virtualization in both enterprise and legacy operations, and increasing use of DHS private cloud services"
+      }
+}

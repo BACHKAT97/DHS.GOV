@@ -1,0 +1,142 @@
+[
+  {
+    "bureauCode": 30,
+    "firstName": "Mark A.",
+    "lastName": "Schwartz",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "United States Citizenship and Immigration Services (USCIS) Deputy Associate Director, Office of Management",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 52,
+    "firstName": "Michael C.",
+    "lastName": "Brown",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "U.S. Immigration and Customs Enforcement (ICE) Executive Director, Management & Administration",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 54,
+    "firstName": "Phil",
+    "lastName": "Landfried",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "Deputy Commissioner of Customs and Border Patrol (CBP)",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 60,
+    "firstName": "Brian",
+    "lastName": "Burns",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "United States Coast Guard (USCG) Deputy Commandant for Mission Support",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 70,
+    "firstName": "Adrian",
+    "lastName": "Gardner",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "Federal Emergency Management Agency (FEMA) Assistant Administrator, Mission Support Bureau",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 58,
+    "firstName": "Michael",
+    "lastName": "Vesta",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "Federal Law Enforcement Training Centers (FLETC) Assistant Director",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 65,
+    "firstName": "David",
+    "lastName": "Epperson",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "National Protection and Programs Directorate (NPPD) Director of Management",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 80,
+    "firstName": "Rick",
+    "lastName": "Stevens",
+    "employmentType": "Other",
+    "employmentTypeOther": "GS-15",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "DHS Science and Technology (S&T) Director, Administrator Services Division",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 56,
+    "firstName": "Russell",
+    "lastName": "Roberts",
+    "employmentType": "Other",
+    "employmentTypeOther": "TSES",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "Transportation Security Administration (TSA) Deputy Administrator",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 40,
+    "firstName": "Kevin",
+    "lastName": "Nally",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "United States Secret Service (USSS) Chief Operating Officer (COO)",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 0,
+    "firstName": "David",
+    "lastName": "Bottom",
+    "employmentType": "SES",
+    "employmentTypeOther": "",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "DHS Office of Intelligence and Analysis (I&A), Deputy Under Secretary for Plans, Policy & Performance Management",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 85,
+    "firstName": "Robert",
+    "lastName": "Dilonardo",
+    "employmentType": "Other",
+    "employmentTypeOther": "GS-15",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "Domestic Nuclear Detection Office (DNDO) Chief of Staff",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 20,
+    "firstName": "Mike",
+    "lastName": "Horton",
+    "employmentType": "Other",
+    "employmentTypeOther": "GS-14",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "Deputy Assistant Inspector General for Management",
+    "keyBureauCIO": "Yes"
+  },
+  {
+    "bureauCode": 0,
+    "firstName": "Antonio",
+    "lastName": "Villafana",
+    "employmentType": "Other",
+    "employmentTypeOther": "GS-15",
+    "typeOfAppointment": "career",
+    "evaluationRatingOfficialTitle": "Office of Heath Affairs (OHA) Chief of Operations",
+    "keyBureauCIO": "Yes"
+  }
+]
